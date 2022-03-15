@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day26", "day26\day26.csproj", "{87AC6A26-B806-4B3D-A9E0-E3F240582562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day26-2", "day26-2\day26-2.csproj", "{1209D105-BEAF-402A-AC16-52F7662AD042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day26-3", "day26-3\day26-3.csproj", "{C88D41B3-4B5C-4327-A8FD-C27B0D6DE316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87AC6A26-B806-4B3D-A9E0-E3F240582562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AC6A26-B806-4B3D-A9E0-E3F240582562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AC6A26-B806-4B3D-A9E0-E3F240582562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AC6A26-B806-4B3D-A9E0-E3F240582562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1209D105-BEAF-402A-AC16-52F7662AD042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1209D105-BEAF-402A-AC16-52F7662AD042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1209D105-BEAF-402A-AC16-52F7662AD042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1209D105-BEAF-402A-AC16-52F7662AD042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88D41B3-4B5C-4327-A8FD-C27B0D6DE316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88D41B3-4B5C-4327-A8FD-C27B0D6DE316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88D41B3-4B5C-4327-A8FD-C27B0D6DE316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88D41B3-4B5C-4327-A8FD-C27B0D6DE316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F6C7792-8A82-4155-A5C8-C26D36FC8743}
+	EndGlobalSection
+EndGlobal
